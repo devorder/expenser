@@ -1,0 +1,4 @@
+use following library when getting psycopg2 error
+    pip install psycopg2-binary
+for setting up .env file use following package
+    pip install django-dotenv
